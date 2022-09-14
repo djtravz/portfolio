@@ -3,14 +3,22 @@
     --drop: 10px;
   }
   
-      body, html {width: 100%; height: 100%; margin: 0; padding: 0;
-          background-color: #0a1424;
-          /* background-color: #212121 */
-          font-size: large;
-          font-family:Verdana, Geneva, Tahoma, sans-serif;
-          color: whitesmoke;
-  }
+    body, html {width: 100%; height: 100%; margin: 0; padding: 0;
+        background-color: #0a1424;
+        /* background-color: #212121 */
+        font-size: large;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: whitesmoke;
+    }
   
+  .backup {
+    font-size: smaller;
+    text-align:center;
+    color: white;
+    padding-left: 1em;
+    padding-top: 1em;
+  }
+
   .container {
       padding: 20px;
       
